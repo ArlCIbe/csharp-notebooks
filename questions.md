@@ -27,21 +27,28 @@ Part 5
 
 Doubles: Precision and Size
 - What does "floating point" mean?
+    - means it's a decimal # 
 - What do they mean by doubles being able to "hold"?
+    - does not round up or down, it "holds" the current value (ie the number stays the same)
 
 Part 6
 
 Working with Fixed Point Types
 - What is meant by "fixed point types"?
+    - means the result will be more precise
 
-Playground
+Playground 
 - Why am I getting this error message when I try to use the integer or decimal type: "Cannot implicitly convert type 'double' to 'int'. An explicit conversion exists (are you missing a cast?)"?   
     - Math.PI holds a value that is a double type, so its result can't be assigned to a different number type; you'd have to convert it to that specific number type first for the expression to work
 - What is a short number type?
+    - uses 16 bits instead of 32 bits
 
 Part 7 
 
 - What is meant by "branches"?
+    - another name for conditionals
 
 Playground
 - What is meant by "draw out the flow of an if statement"?
+
+1 bite = 8 bits
