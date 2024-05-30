@@ -41,5 +41,7 @@ Playground
 
 Part 7 
 
+- What is meant by "branches"?
+
 Playground
 - What is meant by "draw out the flow of an if statement"?
