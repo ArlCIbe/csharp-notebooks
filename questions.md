@@ -55,3 +55,14 @@ Playground
     - Best guess is that I'm meant to demonstrate the process of an if statement
 
 1 bite = 8 bits
+
+What is a namespoace?
+
+iterate meaning?
+
+Part 12
+
+Fibonacci
+- If arrays are immutable, why can we add items to them in this example?
+
+why could I do the int sum thing in part 9, but not in part 12
