@@ -54,9 +54,7 @@ Playground
 - What is meant by "draw out the flow of an if statement"?
     - Best guess is that I'm meant to demonstrate the process of an if statement
 
-1 bite = 8 bits
-
-What is a namespoace?
+What is a namespace?
 
 iterate meaning?
 
@@ -64,5 +62,5 @@ Part 12
 
 Fibonacci
 - If arrays are immutable, why can we add items to them in this example?
-
-why could I do the int sum thing in part 9, but not in part 12
+- Why could I do the int sum thing in Part 9 challenge, but not in this part?
+- How do I assign a lkist method to a variable?
