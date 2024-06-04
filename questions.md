@@ -2,20 +2,21 @@ Lesson 2
 
 String Properties
 - How do we tell the difference between a method and a property?<br> 
-    I'm guessing the presence of ()?
+    - the presence of (); length is a property that is also a function
 - Does that distinction matter?
-    - If the above is true, wouldn't length also be considered a method?<br> 
-        Even though they have different names, they both produce a result.
+    - It doesn't matter.
 
 Leading and Trailing Spaces
 - What is meant by "multiple breakups"?
+    - This was a comment meant for the notebook's editor regarding whether or not the blocks of code in the example should be separated or not.
 
 Part 3
 
 Playground
 - Is there a way to evaluate more than expression at a time (e.g. when we use the && operator in JS)?
-    - You can evaluate more than one expression at a time with the && operation inside an if statement.
+    - You can still evaluate more than one expression at a time with the && operation
 - Is there is a way to use the .Contains method to search multiple lines at a time?
+    - Yes, but you would still have to type .Contains and its parameter multiple times, they just wouldn'y be broken up by lines
 
 Part 4 
 
@@ -40,6 +41,7 @@ Working with Fixed Point Types
 Playground 
 - Why am I getting this error message when I try to use the integer or decimal type: "Cannot implicitly convert type 'double' to 'int'. An explicit conversion exists (are you missing a cast?)"?   
     - Math.PI holds a value that is a double type, so its result can't be assigned to a different number type; you'd have to convert it to that specific number type first for the expression to work
+    
 - What is a short number type?
     - uses 16 bits instead of 32 bits
 
@@ -50,5 +52,6 @@ Part 7
 
 Playground
 - What is meant by "draw out the flow of an if statement"?
+    - Best guess is that I'm meant to demonstrate the process of an if statement
 
 1 bite = 8 bits
